@@ -1,27 +1,45 @@
-# 🧠 Algorithm Visualizer
+# Algorithm Visualizer
 
-An interactive web application to visualize popular sorting algorithms with real-time animations and smooth transitions — designed to help beginners understand core Data Structures and Algorithms (DSA) concepts visually.
+An interactive web application to visualize popular sorting algorithms with real-time animations and smooth transitions — designed to help beginners understand Data Structures and Algorithms (DSA) sorting concepts visually.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎞️ Real-time visualizations of sorting algorithms
-- 📊 Supported Algorithms:
+-  Real-time visualizations of sorting algorithms
+-  Supported Algorithms:
   - Bubble Sort
   - Merge Sort
   - Quick Sort
-- 🧩 Step-by-step animations with intuitive color transitions
-- 🌐 Fully responsive and user-friendly interface
-- 🎯 Built to make learning algorithms easier and more interactive
+-  Step-by-step animations with intuitive color transitions
+-  Fully responsive and user-friendly interface
+-  Built to make learning algorithms easier and more interactive
 
 ---
 
-## 📚 Motivation
+## Contributing
+Contributions, suggestions, and pull requests are welcome!
 
-Understanding how sorting algorithms work internally can be difficult through code alone. This project provides a visual and interactive representation of the algorithms in action, helping learners better grasp concepts like comparisons, swaps, recursion, and time complexity through engaging visual feedback.
+If you'd like to improve this project:
+
+- Fork the repository
+
+- Create a new branch (git checkout -b feature-name)
+
+- Make your changes
+
+- Commit your changes (git commit -m 'Add some feature')
+
+- Push to the branch (git push origin feature-name)
+
+- Create a Pull Request
+
+Together, we can make this tool even better for the community!
+
 
 ---
+
+
 
 ## 🛠️ Tech Stack
 
