@@ -15,6 +15,42 @@ An interactive web application to visualize popular sorting algorithms with real
 -  Fully responsive and user-friendly interface
 -  Built to make learning algorithms easier and more interactive
 
+
+
+
+---
+
+
+
+## Tech Stack
+
+- **Languages**: HTML, CSS, JavaScript
+- **Library**: React.js
+- **Tools**: Git, ESLint
+
+---
+
+##  Getting Started
+
+Follow the steps below to get the project running on your local machine.
+
+###  Clone the Repository
+
+```bash
+git clone https://github.com/ATHARV-YOGI/Algorithm-Visualizer.git
+cd Algorithm-Visualizer
+```
+
+### Install Dependencies & Run the Application
+```bash
+npm install
+```
+
+### Run the Application
+```bash
+npm start
+```
+
 ---
 
 ## Contributing
@@ -35,26 +71,3 @@ If you'd like to improve this project:
 - Create a Pull Request
 
 Together, we can make this tool even better for the community!
-
-
----
-
-
-
-## 🛠️ Tech Stack
-
-- **Languages**: HTML, CSS, JavaScript
-- **Library**: React.js
-- **Tools**: Git, ESLint
-
----
-
-## 💡 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/ATHARV-YOGI/Algorithm-Visualizer.git
-cd Algorithm-Visualizer
-npm install
-npm start
